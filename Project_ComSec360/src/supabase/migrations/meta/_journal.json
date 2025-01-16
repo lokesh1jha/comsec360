@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1718564092616,
+      "tag": "0000_wonderful_maelstrom",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1718564178743,
+      "tag": "0001_jittery_speed_demon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1718564760322,
+      "tag": "0002_medical_veda",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1718605311619,
+      "tag": "0003_nifty_the_call",
+      "breakpoints": true
+    }
+  ]
+}
